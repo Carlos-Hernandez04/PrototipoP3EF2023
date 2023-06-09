@@ -1,0 +1,53 @@
+commit a6c5342a9f98bff8be3152d49c4cddbfe513aa3f
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Thu Jun 1 18:10:50 2023 -0600
+
+    se agrego el reporte a el mantemineto de clientes
+
+commit 1ca552fa324462d205dc1ea0746272f8b90fd739
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Tue May 30 23:29:05 2023 -0600
+
+    se agrego los reportes y ayuda de ventas
+
+commit 760a25fa806b35a315604a3da8cfebcbce97d820
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Sun May 28 16:43:33 2023 -0600
+
+    se agrego la vista pedido
+
+commit aa0a4ddcd20890d3a75ac72a68bc2d129b6aab37
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Sun May 28 16:40:29 2023 -0600
+
+    se afrefo la vista de pedido
+
+commit 7bde17cd313d51d42bea56ccf145f5c35136ce51
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Sun May 21 16:23:53 2023 -0600
+
+    se agrego la funcion al boton eliminar
+
+commit 77b242af52fa901ebf5cad664ff256fcc3011f5b
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Mon May 8 22:46:28 2023 -0600
+
+    se agrego el mantenimiento de vendedores
+
+commit e2848a49d73a56f5af6b13c4a0259d2d056ca8bf
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Thu May 4 22:43:12 2023 -0600
+
+    agregue el mantenimetno de la tienda
+
+commit 25508d89c0bd94b54c62ca756bcf7198cb446d96
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Sun Mar 26 18:11:53 2023 -0600
+
+    agregue la bitacora al boton eliminar
+
+commit 05c9fa70f3e088f440ffc6c3f6ce9f9a940c25e3
+Author: Carlos-Hernandez04 <chernandezg37@miumg.edu.gt>
+Date:   Tue Mar 14 18:07:05 2023 -0600
+
+    subiendo la vista de perfil
